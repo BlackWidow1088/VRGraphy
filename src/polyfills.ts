@@ -51,7 +51,8 @@
  *  (window as any).__Zone_enable_cross_context_check = true;
  *
  */
-import 'aframe';
+// include when all the dependencies are installed via npm
+// import 'aframe';
 /***************************************************************************************************
  * Zone JS is required by default for Angular itself.
  */
